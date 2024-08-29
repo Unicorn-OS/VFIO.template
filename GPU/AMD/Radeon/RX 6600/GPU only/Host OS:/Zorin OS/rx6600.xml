@@ -1,6 +1,6 @@
 <domain type='kvm' id='6'>
   <name>Doom</name>
-  <uuid>fb71f0dc-05fd-414e-8420-0920081f8ee7</uuid>
+  <uuid>8642924c-a929-4de8-bc27-79801aeb3532</uuid>
   <metadata>
     <libosinfo:libosinfo xmlns:libosinfo="http://libosinfo.org/xmlns/libvirt/domain/1.0">
       <libosinfo:os id="http://microsoft.com/win/11"/>
